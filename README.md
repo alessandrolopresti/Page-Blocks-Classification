@@ -6,8 +6,8 @@ Our purpose is to train a Neural Network with a Dataset (https://archive.ics.uci
 This project is focused about the Neural Network analysis and its behaviour when we change the parameters, with an explanation of the results.
 
 ## Requirements
-MATLAB R2015a
-Matlab Neural Networks Toolbox
+- MATLAB R2015a
+- Matlab Neural Networks Toolbox
 
 ## Installation
 Be careful that [page-blocks.txt](page-blocks.txt) and [pageBlocks.m](pageBlocks.m) are in the same directory.
