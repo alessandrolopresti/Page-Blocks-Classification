@@ -1,4 +1,4 @@
-# PAGE BLOCK CLASSIFICATION
+# Page Blocks Classification
 
 ## Description
 Our purpose is to train a Neural Network with a Dataset (https://archive.ics.uci.edu/ml/datasets/Page+Blocks+Classification) and using it to identify the right type of page layout. This is a Supervised Classification problem.
